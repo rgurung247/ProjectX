@@ -1,0 +1,16 @@
+D:\_Vidz\___DEMO\abc\App4\App4\bin\Debug\netstandard2.0\App4.deps.json
+D:\_Vidz\___DEMO\abc\App4\App4\bin\Debug\netstandard2.0\App4.dll
+D:\_Vidz\___DEMO\abc\App4\App4\bin\Debug\netstandard2.0\App4.pdb
+D:\_Vidz\___DEMO\abc\App4\App4\obj\Debug\netstandard2.0\App4.csproj.AssemblyReference.cache
+D:\_Vidz\___DEMO\abc\App4\App4\obj\Debug\netstandard2.0\App4.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Vidz\___DEMO\abc\App4\App4\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\_Vidz\___DEMO\abc\App4\App4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\_Vidz\___DEMO\abc\App4\App4\obj\Debug\netstandard2.0\App4.AssemblyInfoInputs.cache
+D:\_Vidz\___DEMO\abc\App4\App4\obj\Debug\netstandard2.0\App4.AssemblyInfo.cs
+D:\_Vidz\___DEMO\abc\App4\App4\obj\Debug\netstandard2.0\App4.csproj.CoreCompileInputs.cache
+D:\_Vidz\___DEMO\abc\App4\App4\obj\Debug\netstandard2.0\XamlC.stamp
+D:\_Vidz\___DEMO\abc\App4\App4\obj\Debug\netstandard2.0\App4.dll
+D:\_Vidz\___DEMO\abc\App4\App4\obj\Debug\netstandard2.0\refint\App4.dll
+D:\_Vidz\___DEMO\abc\App4\App4\obj\Debug\netstandard2.0\App4.pdb
+D:\_Vidz\___DEMO\abc\App4\App4\obj\Debug\netstandard2.0\ref\App4.dll
+D:\_Vidz\___DEMO\abc\App4\App4\obj\Debug\netstandard2.0\Page1.xaml.g.cs
